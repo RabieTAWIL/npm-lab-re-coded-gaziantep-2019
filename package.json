@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-re-coded-gaziantep-2019",
+  "version": "1.0.0",
+  "description": "npm-lab-test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RabieTAWIL/npm-lab-re-coded-gaziantep-2019.git"
+  },
+  "author": "Rabie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RabieTAWIL/npm-lab-re-coded-gaziantep-2019/issues"
+  },
+  "homepage": "https://github.com/RabieTAWIL/npm-lab-re-coded-gaziantep-2019#readme"
+}
